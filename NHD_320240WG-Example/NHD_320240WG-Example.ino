@@ -573,7 +573,7 @@ void clr()
 
 void disp()
 {
-	unsigned long i, j;
+	unsigned long i;
         comm_out(0x46); // Set cursor address
         data_out(0xF0);            
         data_out(0x0A);
