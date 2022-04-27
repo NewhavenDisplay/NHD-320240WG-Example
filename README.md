@@ -8,4 +8,4 @@ Display Voltage: `5V`\
 Logic Voltage: `5V`
 
 # Program Flow
-1. Display testimage hex values.
+1. Display test image hex values.
